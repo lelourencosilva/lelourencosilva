@@ -80,4 +80,3 @@ Atualmente, estou me especializando em **Kubernetes, Terraform, AWS, Azure e Mon
 ---
 
 *"A constância vence onde a intensidade falha e o que sabemos é só uma gota e o que ignoramos é a imensidão do oceano"* 🚀🔥  
-"A constância vence onde a intensidade falha."* 🚀🔥  
